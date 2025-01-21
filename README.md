@@ -1,14 +1,27 @@
-<h2 align="left">Hi 👋! My name is Kaustav Das</h2>
+<p align="right">  
+	<img src="https://komarev.com/ghpvc/?username=kaustav3071&label=Profile%20views&color=0e75b6&style=plastic" alt="kaustav3071" /> 
+</p> 
 
-###
+<h1 align="center">Hi 👋, I'm Kaustav Das</h1> 
+<p align="center"> 
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+Welcome+to+my+Profile;AI/ML+Enthusiast;Web+Developer;Always+Learning+Something+New...;Thanks+for+Visiting!;&size=30&color=49FF00&center=true&width=650&height=50"></a> 
+</p> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustav3071&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustav3071&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 👋 About Me
+- I'm **Kaustav**, a passionate **AI/ML enthusiast** and **Web Developer** 🚀.  
+- 🌱 Currently exploring **cutting-edge technologies** and solving complex problems.  
+- ⚡ Fun Fact: **I thrive on innovation and love a good challenge!**  
 
+📫 **Let's Connect**:  
+- **Email**: kaustavdas758@gmail.com  
+- **Instagram**: [@kaustavdas17](https://www.instagram.com/kaustavdas17)  
+- **LeetCode**: [Kaustav Das](https://leetcode.com/u/kaustavdas17/)
+
+------
+
+### 🛠️ Tools, Skills, and Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -29,24 +42,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
-###
+#### **Tools and Platforms**
 
-<div align="left">
-  <a href="https://www.instagram.com/kaustavdas17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kaustavdas1703/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/23DCE020" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kaustav3071/count.svg?"  />
-</div>
+### 🐍 GitHub Contributions
+<p align="center">
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-###
+---
+
+### 🌟 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaustav3071&show_icons=true&theme=transparent" alt="Kaustav Das GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav3071&hide=jupyter%20notebook,Makefile&hide_title=true&layout=pie" alt="Top Languages Used" />
+</p>
+
+---
+
+### 🌐 Connect With Me!
+<p align="center">
+  <a href="https://www.instagram.com/kaustavdas17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:kaustavdas758@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/kaustavdas17/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" /></a>
+</p>
