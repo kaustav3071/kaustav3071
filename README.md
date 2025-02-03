@@ -13,9 +13,6 @@
 
 - ❤️ I'm Currently Persuing my **B Tech** in **COMPUTER ENGINEERING**.
 
-
-- 🔥 I've started Exploring the Field of GoogleCloud as well ✨ and Hope to Contribute to that Field as well.
-
 - 📫 Visit my portfolio website **https://kaustavdas.up.railway.app/**
 
 - 📫 How to reach me **kdas.portfolio@gmail.com**
