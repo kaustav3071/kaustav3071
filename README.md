@@ -60,7 +60,7 @@
 <h1 align="center">My Coding Profiles</h1>
 <div align="center">
 	<a href="https://leetcode.com/u/kaustavdas17/" target="_blank">
-		<img src="https://github.com/kaustav3071/kaustav3071/blob/main/assets/leetcode.png" alt="leetcode-profile"/>
+		<img src="https://github.com/kaustav3071/kaustav3071/assets/leetcode.png" alt="leetcode-profile"/>
 	</a>
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
