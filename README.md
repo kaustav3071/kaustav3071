@@ -58,7 +58,7 @@
 <h1 align="center">My Coding Profiles</h1>
 <div align="center">
 	<a href="https://leetcode.com/u/kaustavdas17/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" style="height: 40px" alt="leetcode-profile"/>	</a>
+    <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" style="height: 50px width : 50px" alt="leetcode-profile"/>	</a>
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
 	<a href="https://www.geeksforgeeks.org/user/23dce020/" target="_blank">
