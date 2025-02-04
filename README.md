@@ -61,7 +61,7 @@
     <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" style="height: 43px" alt="leetcode-profile"/>	</a>
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
-	<a href="https://www.geeksforgeeks.org/user/23dce020/" target="_blank">
+	<a href="https://www.geeksforgeeks.org/user/23dce020/" style="height : 43px width : 60px" target="_blank">
 		<img src="/assests/gfg.png" alt="gfg-profile"/>
 	</a>
 </div>
