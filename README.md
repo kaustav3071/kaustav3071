@@ -62,7 +62,7 @@
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
 	<a href="https://www.geeksforgeeks.org/user/23dce020/" target="_blank">
-		<img src="https://github.com/kaustav3071/kaustav3071/blob/main/assets/gfg.png" alt="gfg-profile"/>
+		<img src="/assests/gfg.png" alt="gfg-profile"/>
 	</a>
 </div>
 </br>
