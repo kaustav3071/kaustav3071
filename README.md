@@ -13,11 +13,9 @@
 
 - ❤️ I'm Currently Persuing my **B Tech** in **COMPUTER ENGINEERING**.
 
-- 📫 Visit my portfolio website **https://kaustavdas.up.railway.app/**
-
 - 📫 How to reach me **kdas.portfolio@gmail.com**
 
-<!-- - 🔥🔥 Have a look at [**My Portfolio**](https://iamarghamallick.github.io/portfolio) and you can contact me from there! 🔥🔥 -->
+- 🔥🔥 Have a look at [**My Portfolio**](https://kaustavdas.up.railway.app/) and you can contact me from there! 🔥🔥
 
 ---
 
@@ -39,7 +37,7 @@
 	</a>
 </div>
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustav3071&theme=vue&bg_color=00000000&hide_border=true)](https://kaustav3071.github.io/portfolio/)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustav3071&theme=vue&bg_color=00000000&hide_border=true)](https://kaustavdas.up.railway.app/)
 
 <div align=center>
 	<a href="https://github.com/kaustav3071" target="_blank">
@@ -60,7 +58,7 @@
 <h1 align="center">My Coding Profiles</h1>
 <div align="center">
 	<a href="https://leetcode.com/u/kaustavdas17/" target="_blank">
-		<img src="https://github.com/kaustav3071/kaustav3071/assets/leetcode.png" alt="leetcode-profile"/>
+		<img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="leetcode-profile"/>
 	</a>
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
