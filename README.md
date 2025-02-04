@@ -119,7 +119,7 @@
 ---
 
 <p align="center">
- <img src="https://github.com/kaustav3071/kaustav3071/blob/main/assets/Cool.gif">
+ <img src="/assests/Cool.gif">
 </p>
 
 ---
