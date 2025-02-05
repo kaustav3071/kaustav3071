@@ -79,17 +79,17 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,mysql,mongodb,gcp" />
+    <img src="https://skillicons.dev/icons?i=flask,mysql,mongodb" />
   </a>
 </p>
 
