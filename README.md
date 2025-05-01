@@ -13,7 +13,7 @@
 
 - ❤️ I'm Currently Persuing my **B Tech** in **COMPUTER ENGINEERING**.
 
-- 📫 How to reach me **kdas.portfolio@gmail.com**
+- 📫 How to reach me **kaustavdas2027@gmail.com**
 
 - 🔥🔥 Have a look at [**My Portfolio**](https://kaustavdas.up.railway.app/) and you can contact me from there! 🔥🔥
 
