@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kaustavdas2027@gmail.com**
 
-- 🔥🔥 Have a look at [**My Portfolio**](https://kaustavdas.up.railway.app/) and you can contact me from there! 🔥🔥
+- 🔥🔥 Have a look at [**My Portfolio**](https://kaustav-das.vercel.app/) and you can contact me from there! 🔥🔥
 
 ---
 
@@ -93,28 +93,12 @@
   </a>
 </p>
 
-
-<!-- add
----
-
-<!-- ### Support Me
-<p>
-  <a href="https://www.buymeacoffee.com/itsargha">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itsargha" />
-  </a>
-</p>
-<br/>
-<br/>
-<br/>
-<br/> -->
-
 ---
 
 <div align="center">
   <h2>Follow me around the Web</h2><br>
   <a href="https://www.linkedin.com/in/kaustavdas1703/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/kaustavdas17/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <!-- <a href="https://twitter.com/omchoksi108" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> -->
 </div>
 
 ---
