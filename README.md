@@ -21,6 +21,10 @@
 - � Open to collaboration on full‑stack projects and APIs.
 - 📫 Reach me at: **kaustavdas2027@gmail.com**
 - 🔥 Have a look at my [**Portfolio**](https://kaustav-das.vercel.app/) and connect!
+- Tools used
+- https://chatgpt.com/
+- https://gemini.google.com/app
+- https://rb.gy/krix7t
 
 ---
 
