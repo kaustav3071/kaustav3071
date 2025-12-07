@@ -46,44 +46,15 @@
 
 ### 🎯 Current Focus
 
-<table>
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-**🎨 Frontend**
+| 🎨 **Frontend** | ⚙️ **Backend** |
+|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **🔧 Learning** | **🛠️ Tools** |
+| System Design • DevOps • Web3 | Git • VS Code • Docker • Vercel |
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-**⚙️ Backend**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**🔧 Learning**
-
-`System Design` • `DevOps` • `Web3`
-
-</td>
-<td align="center" width="50%">
-
-**🛠️ Tools**
-
-`Git` • `VS Code` • `Vercel` • `Docker`
-
-</td>
-</tr>
-</table>
+</div>
 
 <br clear="both"/>
 
