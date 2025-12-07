@@ -38,8 +38,6 @@
 - 🎓 **B.Tech** in **Computer Engineering**
 - 💻 Full Stack Developer specializing in **MERN Stack**
 - 🐍 Python enthusiast building scalable applications
-- 🌱 Currently exploring **System Design** & **Cloud Architecture**
-- 🎯 2024 Goals: Contribute to more **Open Source** projects
 - 🔥 Passionate about creating **clean, efficient code**
 - 💡 Love solving complex **DSA problems**
 - 🚀 Always learning, always building!
