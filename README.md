@@ -42,9 +42,12 @@
 - 💡 Love solving complex **DSA problems**
 - 🚀 Always learning, always building!
 
+
+<br/><br/><br/><br/>
+
 ### 🎯 Current Focus
 
-<div align="center">
+<div align="center"><br/>
 
 | 🎨 **Frontend** | ⚙️ **Backend** |
 |:---:|:---:|
@@ -58,9 +61,9 @@
 
 <br/>
 
-<div align="center">
-
 ## 💻 Tech Stack & Tools
+
+<div align="center">
 
 ### 🎯 Languages
 <p>
