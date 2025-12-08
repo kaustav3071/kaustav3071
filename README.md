@@ -125,7 +125,7 @@
 <div align="center">
   <a href="https://github.com/kaustav3071">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaustav3071&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav3071&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=kaustav3071&theme=radical&hide_border=true" alt="GitHub Streak"/>
   </a>
 </div>
 
@@ -146,7 +146,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaustav3071&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-trophies.vercel.app/?username=kaustav3071&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%"/>
 </div>
 
 <br/>
