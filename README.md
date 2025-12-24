@@ -1,137 +1,154 @@
 <div align="center">
 
-# 👨‍💻 KAUSTAV DAS
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kaustav%20Das&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Code%20Alchemist&descAlignY=52&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+🚀;MERN+Stack+Enthusiast+💻;Python+Developer+🐍;Open+Source+Contributor+🌟;Always+Learning+%26+Building+🔥;&center=true&color=36BCF7&vCenter=true&width=600&height=50&font=Fira+Code&pause=1000)](https://github.com/kaustav3071)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaustav3071&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile-views"/>
-  <img src="https://img.shields.io/github/followers/kaustav3071?label=Followers&style=for-the-badge&logo=github&color=blue" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/kaustav3071?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=yellow" alt="stars"/>
-</p>
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://kaustav-das.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:kaustavdas2027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kaustavdas2027@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kaustavdas1703/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/kaustavdas17/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-</div>
+<!-- Animated Typing SVG -->
+<a href="https://github.com/kaustav3071">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%92%BB+MERN+Stack+Developer+%7C+Python+Enthusiast;%F0%9F%8C%9F+Turning+Coffee+into+Code+since+2020" alt="Typing SVG" />
+</a>
 
 <br/>
 
-## 🚀 About Me
+<!-- Profile Badges -->
+<p>
+  <a href="https://github.com/kaustav3071">
+    <img src="https://komarev.com/ghpvc/?username=kaustav3071&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/kaustav3071?tab=followers">
+    <img src="https://img.shields.io/github/followers/kaustav3071?label=Followers&style=for-the-badge&logo=github&color=1DA1F2" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/kaustav3071?tab=repositories">
+    <img src="https://img.shields.io/github/stars/kaustav3071?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=FFD700" alt="GitHub Stars"/>
+  </a>
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-- 🎓 **B.Tech** in **Computer Engineering**
-- 💻 Full Stack Developer specializing in **MERN Stack**
-- 🐍 Python enthusiast building scalable applications
-- 🔥 Passionate about creating **clean, efficient code**
-- 💡 Love solving complex **DSA problems**
-- 🚀 Always learning, always building!
-
-
-<br/><br/><br/><br/>
-
-### 🎯 Current Focus
-
-<div align="center"><br/>
-
-| 🎨 **Frontend** | ⚙️ **Backend** |
-|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **🔧 Learning** | **🛠️ Tools** |
-| System Design • DevOps • Web3 | Git • VS Code • Docker • Vercel |
+<!-- Social Connect Badges -->
+<p>
+  <a href="https://kaustav-das.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kaustavdas1703/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kaustavdas2027@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/kaustavdas17/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 </div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> About Me
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+```javascript
+const kaustav = {
+    pronouns: "He" | "Him",
+    education: "B.Tech in Computer Engineering",
+    location: "India 🇮🇳",
+    currentFocus: "Building Scalable Web Applications",
+    
+    askMeAbout: [
+        "Full Stack Development",
+        "MERN Stack",
+        "Python Automation",
+        "DSA Problem Solving"
+    ],
+    
+    funFact: "I debug code faster than I debug my life 😄"
+};
+```
+
+<br/>
+
+### ⚡ Quick Highlights
+
+- 🔭 Currently working on **AI-powered applications**
+- 🌱 Learning **System Design & DevOps**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, Python**
+- 🎯 Goal: Contributing to impactful projects
+- ⚡ Fun fact: I think I'm addicted to dark mode
 
 <br clear="both"/>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 💻 Tech Stack & Tools
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Tech Arsenal
 
 <div align="center">
 
-### 🎯 Languages
+### 🎯 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend Technologies
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,html,css,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgresql,redis" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,postman,figma" />
 </p>
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🧩 Competitive Programming
 
 <div align="center">
-  <a href="https://leetcode.com/u/kaustavdas17/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/23dce020/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://leetcode.com/u/kaustavdas17/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <br/>
+  <img src="https://leetcard.jacoblin.cool/kaustavdas17?theme=dark&font=Nunito&ext=heatmap" width="380" alt="LeetCode Stats"/>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://www.geeksforgeeks.org/user/23dce020/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="100" alt="GFG"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaustav3071&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="Kaustav's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaustav3071&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
-## 📊 GitHub Statistics
-
 <div align="center">
   <a href="https://github.com/kaustav3071">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaustav3071&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://streak-stats.demolab.com/?user=kaustav3071&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/kaustav3071">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaustav3071&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+    <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=kaustav3071&theme=dark&hide_border=true&border_radius=15&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&background=0d1117" alt="GitHub Streak"/>
   </a>
 </div>
 
@@ -139,17 +156,19 @@
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustav3071&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustav3071&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true&area_color=00b4d8" width="100%"/>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=kaustav3071&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-trophies.vercel.app/?username=kaustav3071&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" width="100%"/>
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -161,23 +180,36 @@
   </picture>
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 💭 Random Dev Quote
+## 💭 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
 
 <br/>
 
----
 
+
+<!-- Footer Wave -->
 <div align="center">
   
-### 💙 Thanks for visiting! Let's connect and build something amazing together! 🚀
+### 💙 Thanks for stopping by!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<p>
+  <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_find_them_useful!-FFD700?style=for-the-badge" alt="Star"/>
+</p>
+
+**Let's connect and build something amazing together!** 🚀
+
+<p>
+  <a href="https://www.buymeacoffee.com/kaustavdas" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+  </a>
+</p>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
