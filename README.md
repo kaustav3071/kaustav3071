@@ -98,12 +98,12 @@ const kaustav = {
 
 ### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgresql,sqlite,redis" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,postman" />
 </p>
 
 </div>
