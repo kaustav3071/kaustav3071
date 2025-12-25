@@ -203,13 +203,6 @@ const kaustav = {
 </p>
 
 **Let's connect and build something amazing together!** 🚀
-
-<p>
-  <a href="https://www.buymeacoffee.com/kaustavdas" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
