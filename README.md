@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/kaustav3071">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%92%BB+MERN+Stack+Developer+%7C+Python+Enthusiast;%F0%9F%8C%9F+Turning+Coffee+into+Code+since+2020" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%92%BB+MERN+Stack+Developer+%7C+Machine Learning+Enthusiast;%F0%9F%8C%9F+Turning+Coffee+into+Code+since+2020" alt="Typing SVG" />
 </a>
 
 <br/>
