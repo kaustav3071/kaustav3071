@@ -25,7 +25,7 @@
 
 <!-- Social Connect Badges -->
 <p>
-  <a href="https://kaustav-das.vercel.app/" target="_blank">
+  <a href="https://www.kaustavdas.me/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/kaustavdas1703/" target="_blank">
